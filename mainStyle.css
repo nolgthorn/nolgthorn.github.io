@@ -23,6 +23,7 @@ p {
     border-width: 3px;
     text-align: center;
     color: green;
+	height: auto;
 }
 
 .topbar {
@@ -44,6 +45,7 @@ p {
 	color: orange;
 	text-align: left;
 	float: left;
+	height: auto;
 }
 
 .header {
